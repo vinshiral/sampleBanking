@@ -1,0 +1,362 @@
+2022-05-10 16:24:32,518 - sampleBanking -INFO - URL is opened
+2022-05-10 16:24:32,720 - sampleBanking -INFO - Entered username
+2022-05-10 16:24:33,026 - sampleBanking -INFO - Entered password
+2022-05-10 16:24:36,620 - sampleBanking -INFO - failed
+2022-05-10 16:26:23,637 - sampleBanking -INFO - URL is opened
+2022-05-10 16:26:23,967 - sampleBanking -INFO - Entered username
+2022-05-10 16:26:24,151 - sampleBanking -INFO - Entered password
+2022-05-11 08:17:02,259 - sampleBanking -INFO - URL is opened
+2022-05-11 08:17:02,446 - sampleBanking -INFO - Entered username
+2022-05-11 08:17:02,569 - sampleBanking -INFO - Entered password
+2022-05-11 08:17:05,070 - sampleBanking -INFO - failed
+2022-05-11 14:06:21,077 - sampleBanking -INFO - URL is opened
+2022-05-11 14:06:21,362 - sampleBanking -INFO - Entered username
+2022-05-11 14:06:21,478 - sampleBanking -INFO - Entered password
+2022-05-11 14:06:26,379 - sampleBanking -INFO - failed
+2022-05-11 14:17:25,077 - sampleBanking -INFO - URL is opened
+2022-05-11 14:17:25,267 - sampleBanking -INFO - Entered username
+2022-05-11 14:17:25,418 - sampleBanking -INFO - Entered password
+2022-05-11 14:17:28,209 - sampleBanking -INFO - failed
+2022-05-11 14:20:19,491 - sampleBanking -INFO - URL is opened
+2022-05-11 14:20:19,799 - sampleBanking -INFO - Entered username
+2022-05-11 14:20:19,935 - sampleBanking -INFO - Entered password
+2022-05-11 14:20:23,987 - sampleBanking -INFO - failed
+2022-05-11 14:21:27,596 - sampleBanking -INFO - URL is opened
+2022-05-11 14:21:27,940 - sampleBanking -INFO - Entered username
+2022-05-11 14:21:28,100 - sampleBanking -INFO - Entered password
+2022-05-11 14:21:30,240 - sampleBanking -INFO - failed
+2022-05-11 14:23:12,520 - sampleBanking -INFO - URL is opened
+2022-05-11 14:23:12,747 - sampleBanking -INFO - Entered username
+2022-05-11 14:23:13,013 - sampleBanking -INFO - Entered password
+2022-05-11 14:23:15,669 - sampleBanking -INFO - failed
+2022-05-11 14:24:51,501 - sampleBanking -INFO - URL is opened
+2022-05-11 14:24:51,709 - sampleBanking -INFO - Entered username
+2022-05-11 14:24:51,853 - sampleBanking -INFO - Entered password
+2022-05-11 14:24:58,479 - sampleBanking -INFO - failed
+2022-05-11 14:39:42,859 - sampleBanking -INFO - URL is opened
+2022-05-11 14:39:43,052 - sampleBanking -INFO - Entered username
+2022-05-11 14:39:43,156 - sampleBanking -INFO - Entered password
+2022-05-11 14:39:46,435 - sampleBanking -INFO - failed
+2022-05-11 14:42:57,635 - sampleBanking -INFO - URL is opened
+2022-05-11 14:42:57,810 - sampleBanking -INFO - Entered username
+2022-05-11 14:42:57,930 - sampleBanking -INFO - Entered password
+2022-05-11 14:43:01,770 - sampleBanking -INFO - failed
+2022-05-11 16:08:31,082 - sampleBanking -INFO - URL is opened
+2022-05-11 16:08:31,282 - sampleBanking -INFO - Entered username
+2022-05-11 16:08:31,418 - sampleBanking -INFO - Entered password
+2022-05-11 16:08:33,988 - sampleBanking -INFO - failed
+2022-05-11 16:11:14,174 - sampleBanking -INFO - URL is opened
+2022-05-11 16:11:14,330 - sampleBanking -INFO - Entered username
+2022-05-11 16:11:14,442 - sampleBanking -INFO - Entered password
+2022-05-11 16:11:18,430 - sampleBanking -INFO - failed
+2022-05-11 16:22:19,415 - sampleBanking -INFO - URL is opened
+2022-05-11 16:22:19,711 - sampleBanking -INFO - Entered username
+2022-05-11 16:22:19,828 - sampleBanking -INFO - Entered password
+2022-05-11 16:22:23,964 - sampleBanking -INFO - failed
+2022-05-11 16:34:20,096 - sampleBanking -INFO - URL is opened
+2022-05-11 16:34:20,320 - sampleBanking -INFO - Entered username
+2022-05-11 16:34:20,465 - sampleBanking -INFO - Entered password
+2022-05-11 16:34:23,910 - sampleBanking -INFO - failed
+2022-05-12 07:32:52,461 - sampleBanking -INFO - URL is opened
+2022-05-12 07:32:52,738 - sampleBanking -INFO - Entered username
+2022-05-12 07:32:52,881 - sampleBanking -INFO - Entered password
+2022-05-12 07:32:55,520 - sampleBanking -INFO - failed
+2022-05-12 07:37:57,187 - sampleBanking -INFO - URL is opened
+2022-05-12 07:37:57,350 - sampleBanking -INFO - Entered username
+2022-05-12 07:37:57,587 - sampleBanking -INFO - Entered password
+2022-05-12 07:38:01,521 - sampleBanking -INFO - failed
+2022-05-12 07:43:55,608 - sampleBanking -INFO - URL is opened
+2022-05-12 07:43:55,838 - sampleBanking -INFO - Entered username
+2022-05-12 07:43:55,992 - sampleBanking -INFO - Entered password
+2022-05-12 07:43:59,854 - sampleBanking -INFO - failed
+2022-05-12 07:47:09,704 - sampleBanking -INFO - URL is opened
+2022-05-12 07:47:09,869 - sampleBanking -INFO - Entered username
+2022-05-12 07:47:10,075 - sampleBanking -INFO - Entered password
+2022-05-12 07:47:13,620 - sampleBanking -INFO - Else_part executed
+2022-05-12 07:49:23,541 - sampleBanking -INFO - URL is opened
+2022-05-12 07:49:23,796 - sampleBanking -INFO - Entered username
+2022-05-12 07:49:23,910 - sampleBanking -INFO - Entered password
+2022-05-12 09:39:13,492 - sampleBanking -INFO - User name provided
+2022-05-12 09:39:13,617 - sampleBanking -INFO - Password provided
+2022-05-12 09:39:16,651 - sampleBanking -INFO - Login passed
+2022-05-12 09:39:20,840 - sampleBanking -INFO - User name provided
+2022-05-12 09:39:20,960 - sampleBanking -INFO - Password provided
+2022-05-12 09:39:24,658 - sampleBanking -INFO - User name provided
+2022-05-12 09:39:24,771 - sampleBanking -INFO - Password provided
+2022-05-12 09:41:22,198 - sampleBanking -INFO - Login passed
+2022-05-12 09:41:22,315 - sampleBanking -INFO - User name provided
+2022-05-12 09:41:22,402 - sampleBanking -INFO - Password provided
+2022-05-12 09:41:26,410 - sampleBanking -INFO - User name provided
+2022-05-12 09:41:26,593 - sampleBanking -INFO - Password provided
+2022-05-12 14:14:08,550 - sampleBanking -INFO - User name provided
+2022-05-12 14:14:08,820 - sampleBanking -INFO - Password provided
+2022-05-12 14:14:14,542 - sampleBanking -INFO - Login passed
+2022-05-12 14:14:22,765 - sampleBanking -INFO - User name provided
+2022-05-12 14:14:23,095 - sampleBanking -INFO - Password provided
+2022-05-12 14:14:31,180 - sampleBanking -INFO - User name provided
+2022-05-12 14:14:31,299 - sampleBanking -INFO - Password provided
+2022-05-12 14:15:00,367 - sampleBanking -INFO - Login passed
+2022-05-12 14:15:03,512 - sampleBanking -INFO - User name provided
+2022-05-12 14:15:03,600 - sampleBanking -INFO - Password provided
+2022-05-12 14:15:10,801 - sampleBanking -INFO - User name provided
+2022-05-12 14:15:10,894 - sampleBanking -INFO - Password provided
+2022-05-12 14:28:55,560 - sampleBanking -INFO - URL is opened
+2022-05-12 14:28:55,719 - sampleBanking -INFO - Entered username
+2022-05-12 14:28:55,954 - sampleBanking -INFO - Entered password
+2022-05-12 14:28:58,289 - sampleBanking -INFO - Login passed
+2022-05-12 16:12:47,052 - sampleBanking -INFO - URL is opened
+2022-05-12 16:12:47,197 - sampleBanking -INFO - Entered username
+2022-05-12 16:12:47,300 - sampleBanking -INFO - Entered password
+2022-05-12 16:12:50,405 - sampleBanking -INFO - Login passed
+2022-05-12 19:55:55,669 - sampleBanking -INFO - URL is opened
+2022-05-12 19:55:56,069 - sampleBanking -INFO - Entered username
+2022-05-12 19:55:56,214 - sampleBanking -INFO - Entered password
+2022-05-12 19:55:59,536 - sampleBanking -INFO - Login passed
+2022-05-12 19:57:25,760 - sampleBanking -INFO - URL is opened
+2022-05-12 19:57:26,160 - sampleBanking -INFO - Entered username
+2022-05-12 19:57:26,326 - sampleBanking -INFO - Entered password
+2022-05-12 19:57:29,911 - sampleBanking -INFO - Login passed
+2022-05-12 19:59:45,707 - sampleBanking -INFO - URL is opened
+2022-05-12 19:59:46,007 - sampleBanking -INFO - Entered username
+2022-05-12 19:59:46,126 - sampleBanking -INFO - Entered password
+2022-05-12 19:59:50,516 - sampleBanking -INFO - Login passed
+2022-05-12 20:00:08,400 - sampleBanking -INFO - User name provided
+2022-05-12 20:00:08,539 - sampleBanking -INFO - Password provided
+2022-05-12 20:00:14,252 - sampleBanking -INFO - Login passed
+2022-05-12 20:00:21,697 - sampleBanking -INFO - User name provided
+2022-05-12 20:00:21,908 - sampleBanking -INFO - Password provided
+2022-05-12 20:00:29,922 - sampleBanking -INFO - User name provided
+2022-05-12 20:00:30,045 - sampleBanking -INFO - Password provided
+2022-05-12 20:00:38,419 - sampleBanking -INFO - User name provided
+2022-05-12 20:00:38,502 - sampleBanking -INFO - Password provided
+2022-05-12 20:01:06,814 - sampleBanking -INFO - Login passed
+2022-05-13 07:24:35,041 - sampleBanking -INFO - Entered username
+2022-05-13 07:24:35,214 - sampleBanking -INFO - Entered password
+2022-05-13 07:26:02,872 - sampleBanking -INFO - Entered username
+2022-05-13 07:26:02,977 - sampleBanking -INFO - Entered password
+2022-05-13 07:26:08,680 - sampleBanking -INFO - clicked on new customer
+2022-05-13 07:27:06,687 - sampleBanking -INFO - Entered username
+2022-05-13 07:27:06,798 - sampleBanking -INFO - Entered password
+2022-05-13 07:27:13,059 - sampleBanking -INFO - clicked on new customer
+2022-05-13 07:33:48,183 - sampleBanking -INFO - Entered username
+2022-05-13 07:33:48,319 - sampleBanking -INFO - Entered password
+2022-05-13 07:33:55,343 - sampleBanking -INFO - clicked on new customer
+2022-05-13 07:35:08,725 - sampleBanking -INFO - Entered username
+2022-05-13 07:35:08,849 - sampleBanking -INFO - Entered password
+2022-05-13 07:35:14,697 - sampleBanking -INFO - clicked on new customer
+2022-05-13 07:36:45,422 - sampleBanking -INFO - Entered username
+2022-05-13 07:36:45,550 - sampleBanking -INFO - Entered password
+2022-05-13 07:37:13,254 - sampleBanking -INFO - clicked on new customer
+2022-05-13 07:39:15,735 - sampleBanking -INFO - Entered username
+2022-05-13 07:39:15,865 - sampleBanking -INFO - Entered password
+2022-05-13 07:39:22,572 - sampleBanking -INFO - clicked on new customer
+2022-05-13 07:39:30,548 - sampleBanking -INFO - clicked on submit
+2022-05-13 07:39:33,555 - sampleBanking -INFO - Validation started...........
+2022-05-13 07:53:09,985 - sampleBanking -INFO - Entered username
+2022-05-13 07:53:10,105 - sampleBanking -INFO - Entered password
+2022-05-13 07:53:15,469 - sampleBanking -INFO - clicked on new customer
+2022-05-13 07:53:23,829 - sampleBanking -INFO - clicked on submit
+2022-05-13 07:53:26,841 - sampleBanking -INFO - Validation started...........
+2022-05-13 08:40:53,868 - sampleBanking -INFO - URL is opened
+2022-05-13 08:40:54,273 - sampleBanking -INFO - Entered username
+2022-05-13 08:40:54,500 - sampleBanking -INFO - Entered password
+2022-05-13 08:40:58,470 - sampleBanking -INFO - Login passed
+2022-05-13 08:41:00,278 - sampleBanking -INFO - URL is opened
+2022-05-13 08:41:00,446 - sampleBanking -INFO - Entered username
+2022-05-13 08:41:00,553 - sampleBanking -INFO - Entered password
+2022-05-13 08:41:04,474 - sampleBanking -INFO - Login passed
+2022-05-13 08:41:12,083 - sampleBanking -INFO - Entered username
+2022-05-13 08:41:12,187 - sampleBanking -INFO - Entered password
+2022-05-13 08:41:17,142 - sampleBanking -INFO - Entered username
+2022-05-13 08:41:17,263 - sampleBanking -INFO - Entered password
+2022-05-13 08:41:18,989 - sampleBanking -INFO - clicked on new customer
+2022-05-13 08:41:23,692 - sampleBanking -INFO - clicked on new customer
+2022-05-13 08:41:33,727 - sampleBanking -INFO - clicked on submit
+2022-05-13 08:41:36,728 - sampleBanking -INFO - Validation started...........
+2022-05-13 08:48:16,515 - sampleBanking -INFO - URL is opened
+2022-05-13 08:48:16,824 - sampleBanking -INFO - Entered username
+2022-05-13 08:48:16,911 - sampleBanking -INFO - Entered password
+2022-05-13 08:48:21,186 - sampleBanking -INFO - Login passed
+2022-05-13 08:48:33,094 - sampleBanking -INFO - Entered username
+2022-05-13 08:48:33,236 - sampleBanking -INFO - Entered password
+2022-05-13 08:48:39,066 - sampleBanking -INFO - clicked on new customer
+2022-05-13 08:48:47,207 - sampleBanking -INFO - clicked on submit
+2022-05-13 08:48:50,211 - sampleBanking -INFO - Validation started...........
+2022-05-13 14:39:17,821 - sampleBanking -INFO - URL is opened
+2022-05-13 14:39:18,171 - sampleBanking -INFO - Entered username
+2022-05-13 14:39:18,334 - sampleBanking -INFO - Entered password
+2022-05-13 14:39:23,538 - sampleBanking -INFO - Login passed
+2022-05-13 14:39:33,365 - sampleBanking -INFO - Entered username
+2022-05-13 14:39:33,584 - sampleBanking -INFO - Entered password
+2022-05-13 14:39:40,034 - sampleBanking -INFO - clicked on new customer
+2022-05-13 14:41:54,376 - sampleBanking -INFO - URL is opened
+2022-05-13 14:41:54,710 - sampleBanking -INFO - Entered username
+2022-05-13 14:41:54,944 - sampleBanking -INFO - Entered password
+2022-05-13 14:41:59,822 - sampleBanking -INFO - Login passed
+2022-05-13 14:42:13,532 - sampleBanking -INFO - Entered username
+2022-05-13 14:42:13,637 - sampleBanking -INFO - Entered password
+2022-05-13 14:42:21,384 - sampleBanking -INFO - clicked on new customer
+2022-05-13 14:42:30,818 - sampleBanking -INFO - clicked on submit
+2022-05-13 14:42:35,832 - sampleBanking -INFO - Validation started...........
+2022-05-13 15:04:05,571 - sampleBanking -INFO - URL is opened
+2022-05-13 15:04:05,855 - sampleBanking -INFO - Entered username
+2022-05-13 15:04:06,008 - sampleBanking -INFO - Entered password
+2022-05-13 15:04:10,094 - sampleBanking -INFO - Login passed
+2022-05-13 15:04:20,855 - sampleBanking -INFO - Entered username
+2022-05-13 15:04:20,957 - sampleBanking -INFO - Entered password
+2022-05-13 15:04:26,965 - sampleBanking -INFO - clicked on new customer
+2022-05-13 15:04:35,487 - sampleBanking -INFO - clicked on submit
+2022-05-13 15:04:40,492 - sampleBanking -INFO - Validation started...........
+2022-05-13 16:29:50,741 - sampleBanking -INFO - URL is opened
+2022-05-13 16:29:51,061 - sampleBanking -INFO - Entered username
+2022-05-13 16:29:51,142 - sampleBanking -INFO - Entered password
+2022-05-13 16:29:53,641 - sampleBanking -INFO - Login passed
+2022-05-13 16:30:04,331 - sampleBanking -INFO - Entered username
+2022-05-13 16:30:04,412 - sampleBanking -INFO - Entered password
+2022-05-13 16:30:10,712 - sampleBanking -INFO - clicked on new customer
+2022-05-14 07:35:19,137 - sampleBanking -INFO - URL is opened
+2022-05-14 07:35:19,363 - sampleBanking -INFO - Entered username
+2022-05-14 07:35:19,462 - sampleBanking -INFO - Entered password
+2022-05-14 07:35:30,458 - sampleBanking -INFO - Login passed
+2022-05-14 07:35:52,665 - sampleBanking -INFO - Entered username
+2022-05-14 07:35:52,786 - sampleBanking -INFO - Entered password
+2022-05-14 07:36:05,153 - sampleBanking -INFO - clicked on new customer
+2022-05-14 07:51:37,910 - sampleBanking -INFO - URL is opened
+2022-05-14 07:51:38,187 - sampleBanking -INFO - Entered username
+2022-05-14 07:51:38,318 - sampleBanking -INFO - Entered password
+2022-05-14 07:51:43,160 - sampleBanking -INFO - Login passed
+2022-05-14 07:51:56,585 - sampleBanking -INFO - Entered username
+2022-05-14 07:51:56,692 - sampleBanking -INFO - Entered password
+2022-05-14 07:52:05,074 - sampleBanking -INFO - clicked on new customer
+2022-05-29 19:58:35,346 - sampleBanking -INFO - URL is opened
+2022-05-29 19:58:35,710 - sampleBanking -INFO - Entered username
+2022-05-29 19:58:35,817 - sampleBanking -INFO - Entered password
+2022-05-29 19:59:02,662 - sampleBanking -INFO - Login passed
+2022-05-31 17:36:08,800 - sampleBanking -INFO - User name provided
+2022-05-31 17:36:09,046 - sampleBanking -INFO - Password provided
+2022-05-31 17:36:15,878 - sampleBanking -INFO - User name provided
+2022-05-31 17:36:15,975 - sampleBanking -INFO - Password provided
+2022-05-31 17:36:23,133 - sampleBanking -INFO - User name provided
+2022-05-31 17:36:23,329 - sampleBanking -INFO - Password provided
+2022-05-31 17:36:30,124 - sampleBanking -INFO - User name provided
+2022-05-31 17:36:30,221 - sampleBanking -INFO - Password provided
+2022-05-31 17:36:36,375 - sampleBanking -INFO - User name provided
+2022-05-31 17:36:36,454 - sampleBanking -INFO - Password provided
+2022-05-31 17:39:19,912 - sampleBanking -INFO - User name provided
+2022-05-31 17:39:20,017 - sampleBanking -INFO - Password provided
+2022-05-31 17:39:25,993 - sampleBanking -INFO - User name provided
+2022-05-31 17:39:26,087 - sampleBanking -INFO - Password provided
+2022-05-31 17:40:22,678 - sampleBanking -INFO - User name provided
+2022-05-31 17:40:22,800 - sampleBanking -INFO - Password provided
+2022-05-31 17:40:29,553 - sampleBanking -INFO - User name provided
+2022-05-31 17:40:29,641 - sampleBanking -INFO - Password provided
+2022-05-31 17:40:36,207 - sampleBanking -INFO - User name provided
+2022-05-31 17:40:36,410 - sampleBanking -INFO - Password provided
+2022-05-31 17:40:43,706 - sampleBanking -INFO - User name provided
+2022-05-31 17:40:43,887 - sampleBanking -INFO - Password provided
+2022-05-31 17:40:49,880 - sampleBanking -INFO - User name provided
+2022-05-31 17:40:49,972 - sampleBanking -INFO - Password provided
+2022-05-31 17:42:36,765 - sampleBanking -INFO - User name provided
+2022-05-31 17:42:36,881 - sampleBanking -INFO - Password provided
+2022-05-31 17:42:42,882 - sampleBanking -INFO - User name provided
+2022-05-31 17:42:42,971 - sampleBanking -INFO - Password provided
+2022-05-31 17:42:51,050 - sampleBanking -INFO - User name provided
+2022-05-31 17:42:51,147 - sampleBanking -INFO - Password provided
+2022-05-31 17:42:59,464 - sampleBanking -INFO - User name provided
+2022-05-31 17:42:59,649 - sampleBanking -INFO - Password provided
+2022-05-31 17:43:06,439 - sampleBanking -INFO - User name provided
+2022-05-31 17:43:06,628 - sampleBanking -INFO - Password provided
+2022-05-31 17:45:26,215 - sampleBanking -INFO - Entered username
+2022-05-31 17:45:26,359 - sampleBanking -INFO - Entered password
+2022-05-31 17:45:33,085 - sampleBanking -INFO - clicked on new customer
+2022-05-31 17:45:41,780 - sampleBanking -INFO - clicked on submit
+2022-05-31 17:45:46,785 - sampleBanking -INFO - Validation started...........
+2022-06-07 15:16:37,087 - sampleBanking -INFO - URL is opened
+2022-06-07 15:16:37,300 - sampleBanking -INFO - Entered username
+2022-06-07 15:16:37,405 - sampleBanking -INFO - Entered password
+2022-06-07 15:17:48,736 - sampleBanking -INFO - URL is opened
+2022-06-07 15:17:49,001 - sampleBanking -INFO - Entered username
+2022-06-07 15:17:49,124 - sampleBanking -INFO - Entered password
+2022-06-07 15:18:04,098 - sampleBanking -INFO - Login passed
+2022-06-07 15:19:36,394 - sampleBanking -INFO - URL is opened
+2022-06-07 15:19:36,561 - sampleBanking -INFO - Entered username
+2022-06-07 15:19:36,793 - sampleBanking -INFO - Entered password
+2022-06-07 15:19:37,806 - sampleBanking -INFO - Clicked on login
+2022-06-07 15:21:25,326 - sampleBanking -INFO - URL is opened
+2022-06-07 15:21:25,584 - sampleBanking -INFO - Entered username
+2022-06-07 15:21:25,724 - sampleBanking -INFO - Entered password
+2022-06-07 15:21:33,192 - sampleBanking -INFO - Clicked on login
+2022-06-07 15:21:33,214 - sampleBanking -INFO - Login passed
+2022-06-07 15:22:13,794 - sampleBanking -INFO - URL is opened
+2022-06-07 15:22:13,977 - sampleBanking -INFO - Entered username
+2022-06-07 15:22:14,115 - sampleBanking -INFO - Entered password
+2022-06-07 15:22:14,722 - sampleBanking -INFO - Clicked on login
+2022-06-07 15:23:16,886 - sampleBanking -INFO - URL is opened
+2022-06-07 15:23:17,167 - sampleBanking -INFO - Entered username
+2022-06-07 15:23:17,291 - sampleBanking -INFO - Entered password
+2022-06-07 15:23:24,800 - sampleBanking -INFO - Clicked on login
+2022-06-07 15:23:24,817 - sampleBanking -INFO - Login passed
+2022-06-07 15:28:00,684 - sampleBanking -INFO - URL is opened
+2022-06-07 15:28:01,136 - sampleBanking -INFO - Entered username
+2022-06-07 15:28:01,318 - sampleBanking -INFO - Entered password
+2022-06-07 15:28:05,441 - sampleBanking -INFO - Clicked on login
+2022-06-07 15:28:05,466 - sampleBanking -INFO - Login passed
+2022-06-07 15:29:09,706 - sampleBanking -INFO - User name provided
+2022-06-07 15:29:09,853 - sampleBanking -INFO - Password provided
+2022-06-07 15:29:17,438 - sampleBanking -INFO - User name provided
+2022-06-07 15:29:17,604 - sampleBanking -INFO - Password provided
+2022-06-07 15:29:26,591 - sampleBanking -INFO - User name provided
+2022-06-07 15:29:26,745 - sampleBanking -INFO - Password provided
+2022-06-07 15:29:34,738 - sampleBanking -INFO - User name provided
+2022-06-07 15:29:34,871 - sampleBanking -INFO - Password provided
+2022-06-07 15:29:41,142 - sampleBanking -INFO - User name provided
+2022-06-07 15:29:41,346 - sampleBanking -INFO - Password provided
+2022-06-09 11:43:05,157 - sampleBanking -INFO - URL is opened
+2022-06-09 11:43:05,675 - sampleBanking -INFO - Entered username
+2022-06-09 11:43:05,793 - sampleBanking -INFO - Entered password
+2022-06-09 11:43:08,543 - sampleBanking -INFO - Clicked on login
+2022-06-09 11:43:08,677 - sampleBanking -INFO - Login passed
+2022-06-09 11:43:20,649 - sampleBanking -INFO - Entered username
+2022-06-09 11:43:20,905 - sampleBanking -INFO - Entered password
+2022-06-09 11:43:27,962 - sampleBanking -INFO - clicked on new customer
+2022-06-09 11:43:38,607 - sampleBanking -INFO - clicked on submit
+2022-06-09 11:43:43,618 - sampleBanking -INFO - Validation started...........
+2022-06-09 13:00:43,335 - sampleBanking -INFO - URL is opened
+2022-06-09 13:00:53,454 - sampleBanking -INFO - Entered username
+2022-06-09 13:00:53,572 - sampleBanking -INFO - Entered password
+2022-06-09 13:00:53,830 - sampleBanking -INFO - Clicked on login
+2022-06-09 13:00:53,850 - sampleBanking -INFO - Login passed
+2022-06-09 13:02:20,904 - sampleBanking -INFO - URL is opened
+2022-06-09 13:02:21,683 - sampleBanking -INFO - Entered username
+2022-06-09 13:02:22,553 - sampleBanking -INFO - Entered password
+2022-06-09 13:02:31,888 - sampleBanking -INFO - Clicked on login
+2022-06-09 13:02:31,970 - sampleBanking -INFO - Login passed
+2022-06-09 13:02:42,029 - sampleBanking -INFO - Entered username
+2022-06-09 13:02:42,259 - sampleBanking -INFO - Entered password
+2022-06-09 13:02:50,181 - sampleBanking -INFO - clicked on new customer
+2022-06-09 13:02:58,024 - sampleBanking -INFO - clicked on submit
+2022-06-09 13:03:03,035 - sampleBanking -INFO - Validation started...........
+2022-06-09 13:04:37,970 - sampleBanking -INFO - URL is opened
+2022-06-09 13:04:38,481 - sampleBanking -INFO - Entered username
+2022-06-09 13:04:39,175 - sampleBanking -INFO - Entered password
+2022-06-09 13:04:43,680 - sampleBanking -INFO - Clicked on login
+2022-06-09 13:04:43,869 - sampleBanking -INFO - Login passed
+2022-06-09 13:05:01,380 - sampleBanking -INFO - Entered username
+2022-06-09 13:05:01,814 - sampleBanking -INFO - Entered password
+2022-06-09 13:05:11,537 - sampleBanking -INFO - clicked on new customer
+2022-06-09 13:05:25,505 - sampleBanking -INFO - clicked on submit
+2022-06-09 13:05:30,507 - sampleBanking -INFO - Validation started...........
+2022-06-09 13:27:40,136 - sampleBanking -INFO - URL is opened
+2022-06-09 13:27:40,554 - sampleBanking -INFO - Entered username
+2022-06-09 13:27:40,651 - sampleBanking -INFO - Entered password
+2022-06-09 13:27:43,086 - sampleBanking -INFO - Clicked on login
+2022-06-09 13:27:43,119 - sampleBanking -INFO - Login passed
+2022-06-09 13:27:52,121 - sampleBanking -INFO - Entered username
+2022-06-09 13:27:52,212 - sampleBanking -INFO - Entered password
+2022-06-09 13:28:18,329 - sampleBanking -INFO - clicked on new customer
+2022-06-09 13:37:38,479 - sampleBanking -INFO - URL is opened
+2022-06-09 13:37:38,655 - sampleBanking -INFO - Entered username
+2022-06-09 13:37:38,850 - sampleBanking -INFO - Entered password
+2022-06-09 13:37:47,492 - sampleBanking -INFO - Entered username
+2022-06-09 13:37:47,657 - sampleBanking -INFO - Entered password
+2022-06-09 13:37:53,302 - sampleBanking -INFO - clicked on new customer
